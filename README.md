@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FJo69
 - 👀 I’m interested in webbased software development, dabaseses (sql) and renewable energy
-- 🌱 I’m currently learning JavaScript to work with Vue.js and CoreUI
+- 🌱 I’m currently learning to use GIT and doing some steps in programming with JavaScript to work with Vue.js and CoreUI
 - 💞️ :-)
 - 📫 How to reach me: acutally not but I'm going to place an email address here
 
