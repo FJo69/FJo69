@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @FJo69
 - 👀 I’m interested in webbased software development, dabaseses (sql) and renewable energy
-- 🌱 I’m currently learning to use GIT and doing some steps in programming with JavaScript to work with Vue.js and CoreUI
+- 🌱 I’m currently learning to use GIT and doing some steps in programming with JavaScript to work with Vue.js and CoreUI. I am firm with PLC technologies (S7, WAGO), PHP and C/Cpp, but my favorite is database technology with Oracle and PostgreSQL.
 - 💞️ :-)
-- 📫 How to reach me: acutally not but I'm going to place an email address here
 
 <!---
 FJo69/FJo69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
